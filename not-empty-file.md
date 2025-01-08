@@ -1,3 +1,0 @@
-# This is not an empty file
-
-Hello
